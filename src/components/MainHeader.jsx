@@ -28,7 +28,7 @@ function MainHeader() {
                         alt="Logo"
                         style={{ marginRight: "10px", width: "25%", height: "25%" }}
                     />
-                    <Link to="/" style={linkStyle}>Home</Link>
+                    <Link to="/" style={linkStyle}>Home2</Link>
                     <Link to="/products" style={linkStyle}>Products</Link>
                 </div>
                 <Link to="/login" style={{ ...linkStyle, padding: "20px" }}>Login</Link>
